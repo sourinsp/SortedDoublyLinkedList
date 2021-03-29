@@ -1,4 +1,3 @@
-CSCI 2720 - Assignment 3 Date: March 17 2021
 
 Authors:
 
